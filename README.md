@@ -11,9 +11,9 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi, I’m Mali! I’m a graduate student at Carnegie Mellon University, where I’m studying public policy and management. I really enjoy working with data and learning how to turn information into meaningful insights. While data can sometimes feel challenging and overwhelming, I see it as a powerful tool for solving problems and telling important stories.
+Hi, I’m Mali! I’m a graduate student at Carnegie Mellon University, studying public policy and management. Before this, I completed my undergraduate degree in civil engineering. While working on that degree, I also took several non-degree courses in computer science because I’ve always been interested in technology and wanted to explore it more deeply.
 
-Outside of school, I like exploring new ideas, spending time with friends, and listening to music. 
+I really enjoy working with data and finding ways to turn information into meaningful insights. Even though it sometimes feel challenging for me, I see data as a powerful tool for problem-solving and storytelling. Outside of school, I like spending time with friends, exploring new ideas, and listening to persain music. 
 
 # What I hope to learn
 Through this course, Telling Stories with Data, I want to feel more comfortable working with data and become better at explaining what the numbers really mean. My goal is to practice creating visuals that are not only clear but also tell a story people can connect with and making meaningful visualizations. Additionally, I like to learn Tableau and other tools that can make complicated ideas easier to understand. By the end of the semester, I hope to have a set of projects that show how I can bring together analysis and storytelling something I know will be important for me moving forward.
