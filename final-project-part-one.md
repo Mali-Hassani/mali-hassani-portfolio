@@ -39,6 +39,7 @@ I will complete the final project using Tableau for data visualization and Short
 ## References
 References
 National Science Foundation, NCSES. (2024). Representation of Demographic Groups in STEM. https://ncses.nsf.gov/pubs/nsb20245/representation-of-demographic-groups-in-stem
+
 Berinato, S. (2016). Good Charts: The HBR Guide to Making Smarter, More Persuasive Data Visualizations. Harvard Business Review Press.
 
 ## AI acknowledgements
