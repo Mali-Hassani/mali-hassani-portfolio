@@ -7,6 +7,8 @@ Visualizations included:
 1. Bar Chart – Gender Composition in STEM Occupations (2021):
 Shows the number of men and women in four STEM categories, highlighting disparities and dominance in specific roles.
 
+<img width="1632" height="723" alt="image" src="https://github.com/user-attachments/assets/d889d2b4-7b74-48f4-96a0-3eeb113f2798" />
+
 <div class='tableauPlaceholder' id='viz1759462586617' style='position: relative'><noscript><a href='#'><img alt='Gender Composition in STEM Occupations (2021) ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pa&#47;PartIIVisualization1&#47;Sheet2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='PartIIVisualization1&#47;Sheet2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pa&#47;PartIIVisualization1&#47;Sheet2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>              
 <script type='text/javascript'>             
   var divElement = document.getElementById('viz1759462586617');         
@@ -19,6 +21,8 @@ Shows the number of men and women in four STEM categories, highlighting disparit
 
 3. Dot Plot / Heatmap – Intensity of Representation Across Time and Occupation (2011–2021):
 Visualizes how gender representation has changed across STEM and non-STEM roles over three years.
+
+<img width="1557" height="676" alt="image" src="https://github.com/user-attachments/assets/c0e78eed-7a67-4da2-9745-95b7d646569c" />
 
 <div class='tableauPlaceholder' id='viz1759462631735' style='position: relative'><noscript><a href='#'><img alt='Trends in STEM Representation Across Occupation Groups and Years ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pa&#47;PartIIVisualization2&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='PartIIVisualization2&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pa&#47;PartIIVisualization2&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>            
 <script type='text/javascript'>                  
